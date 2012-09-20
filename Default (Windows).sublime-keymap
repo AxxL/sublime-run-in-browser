@@ -1,0 +1,6 @@
+[
+	{
+		"keys" : ["ctrl+f11"],
+    	"command": "run_in_browser"
+    }
+]
